@@ -1,4 +1,4 @@
 123
 Matej: sprememba
-Matej: nova vrstica
+Matej: nova vrstica 3
 Matija: 321
